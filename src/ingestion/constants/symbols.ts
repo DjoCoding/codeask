@@ -1,0 +1,1 @@
+export const EXTRACTION_SERVICE = Symbol('EXTRACTION_SERVICE');
